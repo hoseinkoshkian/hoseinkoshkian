@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/hoseinkoshkian/hoseinkoshkian/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoseinkoshkian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinkoshkian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -56,5 +52,13 @@
 ###
 
 <p align="left">Hello, my name is Hossein Koushikan. I am a backend developer specializing in Python and JavaScript. With a passion for creating efficient and scalable web applications, I have extensive experience in building robust backend systems. My expertise includes working with various frameworks and technologies to deliver high-quality software solutions. I am always eager to learn new skills and take on challenging projects that push the boundaries of innovation.</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
 ###
